@@ -13,5 +13,5 @@ if 2.00 <= grade <= 6.00:
     
     print(f"Your grade is {result}")
 else:
-    print("Въведете число в правилния диапазон (2.00 - 6.00)")
+    print("enter grade between 2.00 and 6.00")
 
